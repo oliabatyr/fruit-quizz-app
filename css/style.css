@@ -1,0 +1,23 @@
+.q1, .q2, .q3, .q4, .q5 {
+  display: inline-block;
+  position: relative;
+}
+.answer_holder {
+  display: inline-block;
+}
+body {
+  background-color: lightblue;
+
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+img .one, .two, .three, .four, .five {
+  text-align: center;
+}
