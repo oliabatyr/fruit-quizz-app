@@ -41,7 +41,7 @@ h3 {
   margin: 10px auto;
 }
 li {
-  style: none;
+  list-style: none;
 }
 img {
     border-radius: 8px;
